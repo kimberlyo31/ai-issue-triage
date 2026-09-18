@@ -1,0 +1,56 @@
+[
+  {
+    "external_id": "demo/widgets#101",
+    "repo": "demo/widgets",
+    "title": "App crashes on startup with NullPointerException",
+    "body": "Every time I launch the app on v2.3.1 it throws a NullPointerException in the logs and closes immediately. This started after upgrading.",
+    "opened_at": "2026-09-14T09:15:00+00:00",
+    "number": 101,
+    "labels": []
+  },
+  {
+    "external_id": "demo/widgets#102",
+    "repo": "demo/widgets",
+    "title": "App crashes on launch, NPE in logcat",
+    "body": "Since updating to 2.3.1 the app throws a NullPointerException and immediately closes on startup.",
+    "opened_at": "2026-09-14T11:02:00+00:00",
+    "number": 102,
+    "labels": []
+  },
+  {
+    "external_id": "demo/widgets#103",
+    "repo": "demo/widgets",
+    "title": "Feature request: dark mode",
+    "body": "It would be nice to have a dark mode option in settings for night use.",
+    "opened_at": "2026-09-10T08:00:00+00:00",
+    "number": 103,
+    "labels": []
+  },
+  {
+    "external_id": "demo/widgets#104",
+    "repo": "demo/widgets",
+    "title": "Security vulnerability in auth token handling",
+    "body": "Auth tokens are being logged in plaintext, which is a security vulnerability. Anyone with log access could hijack sessions.",
+    "opened_at": "2026-09-17T22:00:00+00:00",
+    "number": 104,
+    "labels": []
+  },
+  {
+    "external_id": "demo/widgets#105",
+    "repo": "demo/widgets",
+    "title": "How do I configure a custom API endpoint?",
+    "body": "I can't find in the docs how to point the client at a self-hosted endpoint. How do I configure this?",
+    "opened_at": "2026-09-16T14:30:00+00:00",
+    "number": 105,
+    "labels": []
+  },
+  {
+    "external_id": "demo/widgets#106",
+    "repo": "demo/widgets",
+    "title": "README has a typo in the installation section",
+    "body": "The README says 'pip instal' instead of 'pip install' in the documentation.",
+    "opened_at": "2026-09-08T12:00:00+00:00",
+    "number": 106,
+    "labels": []
+  }
+]

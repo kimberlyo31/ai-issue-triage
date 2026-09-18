@@ -1,0 +1,7 @@
+{
+  "bug": { "team": "engineering", "escalate_on_high_severity": true },
+  "feature": { "team": "product", "escalate_on_high_severity": false },
+  "question": { "team": "support", "escalate_on_high_severity": false },
+  "documentation": { "team": "docs", "escalate_on_high_severity": false },
+  "default": { "team": "triage", "escalate_on_high_severity": true }
+}
