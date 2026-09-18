@@ -65,5 +65,5 @@ Both implementations share one interface for the AI backend
 This project was built from scratch as a portfolio piece to demonstrate
 LLM-classification-pipeline design (provider abstraction, dedup, config-driven
 routing, SLA escalation) in both a general-purpose language and Salesforce
-Apex — it isn't derived from any employer or client codebase.
+Apex.
 
